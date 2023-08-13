@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T10:09:03.559Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" etag="A17FrwtFTZpB1Qcs7ik8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T10:14:34.337Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Fe4uGVBlS8vtslVV71Z9" version="21.6.8" type="github">
   <diagram name="Page-1" id="Mexl6bkjyYt5RXLSnS9A">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-1" value="&lt;div&gt;Pre-Existing Database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-2" value="&lt;div&gt;System Administrator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-3" value="&lt;div&gt;Student&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-4" value="&lt;div&gt;Academic Portal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-5" value="&lt;div&gt;System ID&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-6" value="&lt;div&gt;Password&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.973;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aAmGh1MJEAgnPkzqeNWj-5" target="aAmGh1MJEAgnPkzqeNWj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="460" as="sourcePoint" />
+            <mxPoint x="430" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAmGh1MJEAgnPkzqeNWj-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aAmGh1MJEAgnPkzqeNWj-6" target="aAmGh1MJEAgnPkzqeNWj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="410" as="sourcePoint" />
+            <mxPoint x="620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
